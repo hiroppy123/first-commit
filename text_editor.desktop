@@ -1,0 +1,7 @@
+
+[Desktop Entry]
+Name=Text Editor
+Exec=text_editor
+Icon=GRA_0000
+Type=Application
+Categories=Utility;TextEditor;
